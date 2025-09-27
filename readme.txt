@@ -17,6 +17,7 @@ Usage:
  1: In the PC98-Switcher folder, navigate to dist/PC98SaveStateSwapper.
  2: Run PC98SaveStateSwapper.
  3: Tab back into NP21, and when you are ready, press "B". A countdown will begin, and after you swap for the first time, begin!
+ 4: When you are finished with a game, when the game is active (and has been for at least 2 seconds) press "B" to remove complete it. The program will close when all games have been completed.
 
 
 Resetting runs:
