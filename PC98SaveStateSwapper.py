@@ -12,7 +12,7 @@ import threading
 GAME_DURATION_LOW = 5
 GAME_DURATION_HIGH = 20
 # NUMBER_OF_GAMES = 4
-remaining_slots = [0, 1, 2, 3]
+remaining_slots = [0, 1, 2]
 
 stop_thread = threading.Event()
 sleep_time = 0.1
